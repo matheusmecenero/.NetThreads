@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-namespace Chapter1
+namespace UsingThreadClass
 {
     public static class Program
     {
