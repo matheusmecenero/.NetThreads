@@ -10,7 +10,7 @@ namespace UsingThreadClass
             {
                 Console.WriteLine("ThreadProc:{0}", i);
                 Thread.Sleep(0);
-            } 
+            }
         }
         public static void Main()
         {
