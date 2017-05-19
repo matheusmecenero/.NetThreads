@@ -4,3 +4,6 @@ c:\users\indra\documents\visual studio 2015\Projects\BackgroundThread\Background
 c:\users\indra\documents\visual studio 2015\Projects\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.csprojResolveAssemblyReference.cache
 c:\users\indra\documents\visual studio 2015\Projects\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.exe
 c:\users\indra\documents\visual studio 2015\Projects\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.pdb
+C:\Users\indra\dev\BackgroundThread\BackgroundThread\bin\Debug\BackgroundThread.exe.config
+C:\Users\indra\dev\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.exe
+C:\Users\indra\dev\BackgroundThread\BackgroundThread\obj\Debug\BackgroundThread.pdb
