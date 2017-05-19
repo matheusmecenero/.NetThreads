@@ -24,9 +24,9 @@ namespace BackgroundThread
             //If you run this application with the IsBackground property set to true, the application exits
             //immediately.If you set it to false(creating a foreground thread), the application prints the
             //ThreadProc message ten times.
-            t.IsBackground = true;
+            t.IsBackground = false;
             t.Start();
-            Console.ReadLine();
+           //Console.ReadLine();
         }
     }
 }
