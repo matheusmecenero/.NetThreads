@@ -19,7 +19,7 @@ namespace StoppingAThread
             //A better way to stop a thread is by using a shared variable that both your target and your
             //calling thread can access.
             bool stopped = false;
-
+             
             //In this case, the thread is initialized with a lambda expression (which in turn is just a shorthand version of a delegate).
             Thread t = new Thread(new ThreadStart(() =>
             {
