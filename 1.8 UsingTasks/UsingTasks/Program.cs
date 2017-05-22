@@ -20,6 +20,8 @@ namespace UsingTasks
                     Console.Write('*');
                 }
             });
+
+            //Wait is a synchronization method that causes the calling thread to wait until the current task has completed.
             t.Wait();
 
             Console.ReadKey();
