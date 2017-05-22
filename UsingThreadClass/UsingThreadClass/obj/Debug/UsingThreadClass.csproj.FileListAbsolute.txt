@@ -1,9 +1,0 @@
-c:\users\indra\documents\visual studio 2015\Projects\UsingThreadClass\UsingThreadClass\bin\Debug\UsingThreadClass.exe.config
-c:\users\indra\documents\visual studio 2015\Projects\UsingThreadClass\UsingThreadClass\obj\Debug\UsingThreadClass.csprojResolveAssemblyReference.cache
-c:\users\indra\documents\visual studio 2015\Projects\UsingThreadClass\UsingThreadClass\bin\Debug\UsingThreadClass.exe
-c:\users\indra\documents\visual studio 2015\Projects\UsingThreadClass\UsingThreadClass\bin\Debug\UsingThreadClass.pdb
-c:\users\indra\documents\visual studio 2015\Projects\UsingThreadClass\UsingThreadClass\obj\Debug\UsingThreadClass.exe
-c:\users\indra\documents\visual studio 2015\Projects\UsingThreadClass\UsingThreadClass\obj\Debug\UsingThreadClass.pdb
-C:\Users\indra\dev\UsingThreadClass\UsingThreadClass\bin\Debug\UsingThreadClass.exe.config
-C:\Users\indra\dev\UsingThreadClass\UsingThreadClass\obj\Debug\UsingThreadClass.exe
-C:\Users\indra\dev\UsingThreadClass\UsingThreadClass\obj\Debug\UsingThreadClass.pdb
