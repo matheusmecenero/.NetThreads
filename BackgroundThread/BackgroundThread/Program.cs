@@ -26,6 +26,7 @@ namespace BackgroundThread
             //ThreadProc message ten times.
             t.IsBackground = false;
             t.Start();
+
            //Console.ReadLine();
         }
     }
