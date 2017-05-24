@@ -41,9 +41,32 @@ namespace AsyncAwait
                 //run when the Task completes.Your method yields control to the calling thread, and this thread can be used to do other work.
 
                 string result = await client.GetStringAsync("http://www.microsoft.com");
-                
+
                 return result;
             }
         }
+
+
+
+        //public static void Main()
+        //{
+        //    Task<string> result = AcaoAssincrona();
+
+        //    Console.WriteLine(result);
+
+        //    Console.ReadLine();
+        //}
+
+        ////Todo método async inicia como síncrono, quando passa pelo primeiro await será assíncrono, 
+        ////notar que quando chega no await abaixo, a thread principal do programa continua
+        ////se tirar o await e compilar, notar que irá exibir um alerta dizendo que o metodo é sincrono
+        //public static async Task<string> AcaoAssincrona()
+        //{
+        //    await Task.Delay(5000);
+        //    return "ok";
+        //}
+
+
+
     }
 }
