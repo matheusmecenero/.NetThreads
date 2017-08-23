@@ -1,0 +1,6 @@
+C:\Users\indra\Documents\Visual Studio 2017\Projects\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\indra\Documents\Visual Studio 2017\Projects\C#\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\indra\Documents\Visual Studio 2017\Projects\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\indra\Documents\Visual Studio 2017\Projects\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\indra\Documents\Visual Studio 2017\Projects\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\indra\Documents\Visual Studio 2017\Projects\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
