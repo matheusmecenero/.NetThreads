@@ -1,2 +1,2 @@
-Caminho de dados est· no Web.Config apontando para "C:\DB\"
-Colocar arquivos .mdf (da pasta AppData) no caminho apontado no web.config. 
+Caminho de dados est√° no Web.Config apontando para "C:\DB\"
+Colocar arquivos .mdf (da pasta AppData) no caminho apontado no Web.Config. 
